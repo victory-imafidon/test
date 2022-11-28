@@ -18,3 +18,4 @@ function getMax(array) {
 
   return array.reduce((a, b) => (a > b) ? a : b);
 }
+//Hello This is me making changes !!!!!!!!!!
